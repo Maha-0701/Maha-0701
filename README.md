@@ -6,7 +6,7 @@
 🎯 Passionate about AI, Machine Learning and Data Science 
 
 ## 🛠 Tech Stack  
-💻 Programming: Python 
+💻 Programming: Python
 📊 Data Science: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch   
 
 ## 🌍 Connect with Me  
